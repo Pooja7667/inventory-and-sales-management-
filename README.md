@@ -1,6 +1,6 @@
 # 📊 Product Sales & Inventory Dashboard
 
-![Dashboard Screenshot](./<img width="1473" height="803" alt="Screenshot 2025-10-14 235023" src="https://github.com/user-attachments/assets/1a1ed5aa-8a56-4ee1-b659-e2c431131d99" />
+(./<img width="1473" height="803" alt="Screenshot 2025-10-14 235023" src="https://github.com/user-attachments/assets/1a1ed5aa-8a56-4ee1-b659-e2c431131d99" />
 )
 
 ## 🧾 Overview
