@@ -1,6 +1,7 @@
 # 📊 Product Sales & Inventory Dashboard
 
-![Dashboard Screenshot](./Screenshot%202025-10-14%20235023.png)
+![Dashboard Screenshot](./<img width="1473" height="803" alt="Screenshot 2025-10-14 235023" src="https://github.com/user-attachments/assets/1a1ed5aa-8a56-4ee1-b659-e2c431131d99" />
+)
 
 ## 🧾 Overview
 This dashboard provides a comprehensive view of **product sales and inventory performance**. It helps track purchasing, sales, and stock trends effectively — giving valuable insights into business performance.
@@ -34,7 +35,8 @@ This dashboard helps businesses:
 ## 🖼️ Screenshot
 Below is the dashboard image for reference:
 
-![Product Sales & Inventory Dashboard](./Screenshot%202025-10-14%20235023.png)
+![Product Sales & Inventory Dashboard](./<img width="1473" height="803" alt="Screenshot 2025-10-14 235023" src="https://github.com/user-attachments/assets/a761719d-b81b-4f65-bf12-163fbd92300b" />
+)
 
 ## 🧑‍💻 Developer
 **Pooja Gupta**  
